@@ -59,7 +59,7 @@ const TEXT_ATTS = ['fontFamily', 'fontSize', 'fontWeight', 'textAnchor']
 const POLYGON_ATTS = ['points'];
 const POLYLINE_ATTS = ['points'];
 
-const COMMON_ATTS = ['fill', 'fillOpacity', 'stroke', 'strokeWidth', 'strokeOpacity', 'opacity',
+const COMMON_ATTS = ['fill', 'fillRule', 'fillOpacity', 'stroke', 'strokeWidth', 'strokeOpacity', 'opacity',
     'strokeLinecap', 'strokeLinejoin',
     'strokeDasharray', 'strokeDashoffset', 'x', 'y', 'rotate', 'scale', 'origin', 'originX', 'originY', 'transform', 'clipPath'];
 
